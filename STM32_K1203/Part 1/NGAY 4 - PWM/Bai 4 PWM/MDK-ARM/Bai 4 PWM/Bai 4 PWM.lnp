@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"bai 4 pwm\startup_stm32f103xb.o"
+"bai 4 pwm\main.o"
+"bai 4 pwm\stm32f1xx_it.o"
+"bai 4 pwm\stm32f1xx_hal_msp.o"
+"bai 4 pwm\stm32f1xx_hal_gpio_ex.o"
+"bai 4 pwm\stm32f1xx_hal_tim.o"
+"bai 4 pwm\stm32f1xx_hal_tim_ex.o"
+"bai 4 pwm\stm32f1xx_hal.o"
+"bai 4 pwm\stm32f1xx_hal_rcc.o"
+"bai 4 pwm\stm32f1xx_hal_rcc_ex.o"
+"bai 4 pwm\stm32f1xx_hal_gpio.o"
+"bai 4 pwm\stm32f1xx_hal_dma.o"
+"bai 4 pwm\stm32f1xx_hal_cortex.o"
+"bai 4 pwm\stm32f1xx_hal_pwr.o"
+"bai 4 pwm\stm32f1xx_hal_flash.o"
+"bai 4 pwm\stm32f1xx_hal_flash_ex.o"
+"bai 4 pwm\stm32f1xx_hal_exti.o"
+"bai 4 pwm\system_stm32f1xx.o"
+--strict --scatter "Bai 4 PWM\Bai 4 PWM.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Bai 4 PWM.map" -o "Bai 4 PWM\Bai 4 PWM.axf"

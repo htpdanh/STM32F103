@@ -1,0 +1,22 @@
+02:50:45 **** Incremental Build of configuration Debug for project Uart_Parse_Data_IDE ****
+make -j3 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:95:4: warning: implicit declaration of function 'HAL_GPIO_Toggle'; did you mean 'HAL_GPIO_TogglePin'? [-Wimplicit-function-declaration]
+   95 |    HAL_GPIO_Toggle(GPIOC,GPIO_Pin_13);
+      |    ^~~~~~~~~~~~~~~
+      |    HAL_GPIO_TogglePin
+../Core/Src/main.c:95:26: error: 'GPIO_Pin_13' undeclared (first use in this function); did you mean 'GPIO_PIN_13'?
+   95 |    HAL_GPIO_Toggle(GPIOC,GPIO_Pin_13);
+      |                          ^~~~~~~~~~~
+      |                          GPIO_PIN_13
+../Core/Src/main.c:95:26: note: each undeclared identifier is reported only once for each function it appears in
+../Core/Src/main.c:96:4: warning: implicit declaration of function 'Hal_delay'; did you mean 'HAL_Delay'? [-Wimplicit-function-declaration]
+   96 |    Hal_delay(1000);
+      |    ^~~~~~~~~
+      |    HAL_Delay
+make: *** [Core/Src/subdir.mk:40: Core/Src/main.o] Error 1
+"make -j3 all" terminated with exit code 2. Build might be incomplete.
+
+02:50:46 Build Failed. 2 errors, 2 warnings. (took 425ms)
+

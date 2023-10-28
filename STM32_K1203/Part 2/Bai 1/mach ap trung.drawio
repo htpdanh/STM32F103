@@ -1,0 +1,448 @@
+<mxfile host="app.diagrams.net" modified="2023-05-14T20:23:30.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SDp5UE9KNucGPr5HWMig" version="21.3.0" type="device">
+  <diagram id="ALxiAxeV9Ly_q71chqAM" name="Page-1">
+    <mxGraphModel dx="2359" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fxQVwP1VWP0v5WLFIve3-1" target="fxQVwP1VWP0v5WLFIve3-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="240" />
+              <mxPoint x="-385" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-1" target="fxQVwP1VWP0v5WLFIve3-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="240" />
+              <mxPoint x="-235" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-1" target="DAEP5-AScoEeusHj-AqT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="240" />
+              <mxPoint x="-85" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-1" target="fxQVwP1VWP0v5WLFIve3-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="240" />
+              <mxPoint x="65" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-1" target="fxQVwP1VWP0v5WLFIve3-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="240" />
+              <mxPoint x="215" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-1" target="fxQVwP1VWP0v5WLFIve3-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5" y="240" />
+              <mxPoint x="365" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-1" value="Mạch ấp trứng" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-55" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-2" value="Điều khiển nút bấm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-445" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-3" value="Điều khiển bằng web" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-445" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-4" value="Điều khiển hồng ngoại" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-445" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-5" value="Điều chỉnh nhiệt độ" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-295" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-6" value="Điều chỉnh độ ẩm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-295" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-7" value="Cài đặt thời gian ấp" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-8" value="Cài đặt nhiệt độ mong muốn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-9" value="Cài đặt độ ẩm mong muốn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="155" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-10" value="Cảnh báo trứng nở" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-11" value="Cảnh báo khi nhiệt độ vượt giới hạn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-12" value="Cảnh báo khi độ ẩm vượt giới hạn" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-13" value="Cảnh báo qua SIM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1350" />
+              <mxPoint x="210" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1350" />
+              <mxPoint x="210" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1350" />
+              <mxPoint x="210" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1350" />
+              <mxPoint x="210" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1350" />
+              <mxPoint x="430" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1350" />
+              <mxPoint x="430" y="1150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1350" />
+              <mxPoint x="430" y="1250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1350" />
+              <mxPoint x="430" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1350" />
+              <mxPoint x="430" y="1550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-14" target="DAEP5-AScoEeusHj-AqT-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1350" />
+              <mxPoint x="430" y="1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-14" value="STM32f103C8" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="260" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-15" value="Hiển thị thời gian ấp trứng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fxQVwP1VWP0v5WLFIve3-16" value="Hiển thị nhiệt độ, độ ẩm" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="5" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-1" value="Đo nhiệt độ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-2" value="Đo độ ẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-5" value="Điều chỉnh đảo khay trứng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-11" value="Điều chỉnh mực nước" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-12" value="Cài đặt thời gian đảo khay trứng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-13" value="Cài đặt các chế độ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-14" value="Cảnh báo qua web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-16" target="fxQVwP1VWP0v5WLFIve3-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="570" as="sourcePoint" />
+            <mxPoint x="195" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-21" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-8" target="fxQVwP1VWP0v5WLFIve3-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="370" as="sourcePoint" />
+            <mxPoint x="75" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-24" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-1" target="DAEP5-AScoEeusHj-AqT-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-45" y="590" as="sourcePoint" />
+            <mxPoint x="-45" y="620" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-9" target="fxQVwP1VWP0v5WLFIve3-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="570" as="sourcePoint" />
+            <mxPoint x="195" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-12" target="fxQVwP1VWP0v5WLFIve3-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="570" as="sourcePoint" />
+            <mxPoint x="195" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-27" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-10" target="fxQVwP1VWP0v5WLFIve3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="390" as="sourcePoint" />
+            <mxPoint x="95" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-28" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-13" target="DAEP5-AScoEeusHj-AqT-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="105" y="400" as="sourcePoint" />
+            <mxPoint x="105" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-29" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-12" target="fxQVwP1VWP0v5WLFIve3-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="115" y="410" as="sourcePoint" />
+            <mxPoint x="115" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-13" target="fxQVwP1VWP0v5WLFIve3-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="420" as="sourcePoint" />
+            <mxPoint x="125" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-14" target="fxQVwP1VWP0v5WLFIve3-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="135" y="430" as="sourcePoint" />
+            <mxPoint x="135" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-6" target="fxQVwP1VWP0v5WLFIve3-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="145" y="440" as="sourcePoint" />
+            <mxPoint x="145" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-33" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-5" target="fxQVwP1VWP0v5WLFIve3-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="155" y="450" as="sourcePoint" />
+            <mxPoint x="155" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-11" target="DAEP5-AScoEeusHj-AqT-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="165" y="460" as="sourcePoint" />
+            <mxPoint x="165" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-35" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-3" target="fxQVwP1VWP0v5WLFIve3-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="470" as="sourcePoint" />
+            <mxPoint x="175" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fxQVwP1VWP0v5WLFIve3-4" target="fxQVwP1VWP0v5WLFIve3-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="185" y="480" as="sourcePoint" />
+            <mxPoint x="185" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-37" value="Bộ nhớ Flash trong ()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-38" value="4 nút điều khiển ( Run, Setting, Up, Down)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-39" value="Cảm biến hồng ngoại IR1838" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-40" value="Module Wifi ESP8266" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-47" value="module thời gian thực&amp;nbsp;RTC DS3231" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-48" value="cảm biến nhiệt độ, độ ẩm DHT22" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-49" value="Led 7 thanh" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-50" value="LCD 1602 I2C" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-51" value="Quạt&lt;br&gt;(12V)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-52" value="SMS&amp;nbsp;&lt;br&gt;(SIM800L)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-53" value="Led hiển thị&amp;nbsp;&lt;br&gt;(các mode hoạt động: Run, setting, đảo trứng)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-54" value="Loa cảnh báo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-55" value="Đèn dây tóc (220V)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-56" value="Relay (5V10A)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-58" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-52" target="fxQVwP1VWP0v5WLFIve3-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="1320" as="sourcePoint" />
+            <mxPoint x="540" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-72" value="IO x4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-73" value="IO x1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-74" value="UART" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-75" value="I2C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-76" value="IO x1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-77" value="IO x12" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1020" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-78" value="I2C" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-79" value="PWM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-80" value="IO x1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-81" value="IO x1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-82" value="PWM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1520" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-83" value="IO x1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1620" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-84" value="UART" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1390" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-85" value="Hiển thị nhiệt độ, độ ẩm" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-86" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-85" target="fxQVwP1VWP0v5WLFIve3-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="75" y="370" as="sourcePoint" />
+            <mxPoint x="75" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-88" value="&lt;h1&gt;Sơ đồ linh kiện&amp;nbsp;&lt;/h1&gt;&lt;p&gt;- 21 IO&lt;/p&gt;&lt;p&gt;- 2 UART&lt;/p&gt;&lt;p&gt;- 2 I2C&lt;/p&gt;&lt;p&gt;- 2 PWM&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="850" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-90" target="DAEP5-AScoEeusHj-AqT-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-90" value="220 V" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="995" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-91" target="DAEP5-AScoEeusHj-AqT-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-91" value="12V&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1155" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-92" target="DAEP5-AScoEeusHj-AqT-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="DAEP5-AScoEeusHj-AqT-92" target="DAEP5-AScoEeusHj-AqT-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-92" value="5V" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="1305" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-93" value="3.3V" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-285" y="1445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-95" value="Adapter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1095" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-99" value="78L05" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-100" value="AMS1117" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-225" y="1385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-101" value="4.2V" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="1445" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-103" value="1N4007" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="1375" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DAEP5-AScoEeusHj-AqT-104" value="&lt;h1&gt;Sơ đồ tổng quát&amp;nbsp;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="50" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

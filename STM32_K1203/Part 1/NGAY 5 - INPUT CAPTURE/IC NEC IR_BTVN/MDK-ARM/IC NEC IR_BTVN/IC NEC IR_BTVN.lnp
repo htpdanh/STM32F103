@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"ic nec ir_btvn\startup_stm32f103xb.o"
+"ic nec ir_btvn\main.o"
+"ic nec ir_btvn\stm32f1xx_it.o"
+"ic nec ir_btvn\stm32f1xx_hal_msp.o"
+"ic nec ir_btvn\stm32f1xx_hal_gpio_ex.o"
+"ic nec ir_btvn\stm32f1xx_hal_tim.o"
+"ic nec ir_btvn\stm32f1xx_hal_tim_ex.o"
+"ic nec ir_btvn\stm32f1xx_hal.o"
+"ic nec ir_btvn\stm32f1xx_hal_rcc.o"
+"ic nec ir_btvn\stm32f1xx_hal_rcc_ex.o"
+"ic nec ir_btvn\stm32f1xx_hal_gpio.o"
+"ic nec ir_btvn\stm32f1xx_hal_dma.o"
+"ic nec ir_btvn\stm32f1xx_hal_cortex.o"
+"ic nec ir_btvn\stm32f1xx_hal_pwr.o"
+"ic nec ir_btvn\stm32f1xx_hal_flash.o"
+"ic nec ir_btvn\stm32f1xx_hal_flash_ex.o"
+"ic nec ir_btvn\stm32f1xx_hal_exti.o"
+"ic nec ir_btvn\system_stm32f1xx.o"
+--strict --scatter "IC NEC IR_BTVN\IC NEC IR_BTVN.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "IC NEC IR_BTVN.map" -o "IC NEC IR_BTVN\IC NEC IR_BTVN.axf"

@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"bai 1 gpio input\startup_stm32f103xb.o"
+"bai 1 gpio input\main.o"
+"bai 1 gpio input\stm32f1xx_it.o"
+"bai 1 gpio input\stm32f1xx_hal_msp.o"
+"bai 1 gpio input\stm32f1xx_hal_gpio_ex.o"
+"bai 1 gpio input\stm32f1xx_hal_tim.o"
+"bai 1 gpio input\stm32f1xx_hal_tim_ex.o"
+"bai 1 gpio input\stm32f1xx_hal.o"
+"bai 1 gpio input\stm32f1xx_hal_rcc.o"
+"bai 1 gpio input\stm32f1xx_hal_rcc_ex.o"
+"bai 1 gpio input\stm32f1xx_hal_gpio.o"
+"bai 1 gpio input\stm32f1xx_hal_dma.o"
+"bai 1 gpio input\stm32f1xx_hal_cortex.o"
+"bai 1 gpio input\stm32f1xx_hal_pwr.o"
+"bai 1 gpio input\stm32f1xx_hal_flash.o"
+"bai 1 gpio input\stm32f1xx_hal_flash_ex.o"
+"bai 1 gpio input\stm32f1xx_hal_exti.o"
+"bai 1 gpio input\system_stm32f1xx.o"
+--strict --scatter "Bai 1 GPIO input\Bai 1 GPIO input.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Bai 1 GPIO input.map" -o "Bai 1 GPIO input\Bai 1 GPIO input.axf"

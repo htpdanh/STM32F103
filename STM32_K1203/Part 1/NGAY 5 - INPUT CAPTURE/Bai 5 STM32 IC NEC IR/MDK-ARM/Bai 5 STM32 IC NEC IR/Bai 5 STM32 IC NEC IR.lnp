@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"bai 5 stm32 ic nec ir\startup_stm32f103xb.o"
+"bai 5 stm32 ic nec ir\main.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_it.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_msp.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_gpio_ex.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_tim.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_tim_ex.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_rcc.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_rcc_ex.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_gpio.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_dma.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_cortex.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_pwr.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_flash.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_flash_ex.o"
+"bai 5 stm32 ic nec ir\stm32f1xx_hal_exti.o"
+"bai 5 stm32 ic nec ir\system_stm32f1xx.o"
+--strict --scatter "Bai 5 STM32 IC NEC IR\Bai 5 STM32 IC NEC IR.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Bai 5 STM32 IC NEC IR.map" -o "Bai 5 STM32 IC NEC IR\Bai 5 STM32 IC NEC IR.axf"

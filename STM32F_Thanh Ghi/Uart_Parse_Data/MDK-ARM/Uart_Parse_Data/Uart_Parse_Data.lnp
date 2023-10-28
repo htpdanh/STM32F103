@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"uart_parse_data\startup_stm32f103xb.o"
+"uart_parse_data\main.o"
+"uart_parse_data\gpio.o"
+"uart_parse_data\usart.o"
+"uart_parse_data\stm32f1xx_it.o"
+"uart_parse_data\stm32f1xx_hal_msp.o"
+"uart_parse_data\stm32f1xx_hal_gpio_ex.o"
+"uart_parse_data\stm32f1xx_hal_tim.o"
+"uart_parse_data\stm32f1xx_hal_tim_ex.o"
+"uart_parse_data\stm32f1xx_hal_uart.o"
+"uart_parse_data\stm32f1xx_hal.o"
+"uart_parse_data\stm32f1xx_hal_rcc.o"
+"uart_parse_data\stm32f1xx_hal_rcc_ex.o"
+"uart_parse_data\stm32f1xx_hal_gpio.o"
+"uart_parse_data\stm32f1xx_hal_dma.o"
+"uart_parse_data\stm32f1xx_hal_cortex.o"
+"uart_parse_data\stm32f1xx_hal_pwr.o"
+"uart_parse_data\stm32f1xx_hal_flash.o"
+"uart_parse_data\stm32f1xx_hal_flash_ex.o"
+"uart_parse_data\stm32f1xx_hal_exti.o"
+"uart_parse_data\system_stm32f1xx.o"
+--strict --scatter "Uart_Parse_Data\Uart_Parse_Data.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Uart_Parse_Data.map" -o Uart_Parse_Data\Uart_Parse_Data.axf

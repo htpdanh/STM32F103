@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+"timer_btvn\startup_stm32f103xb.o"
+"timer_btvn\main.o"
+"timer_btvn\stm32f1xx_it.o"
+"timer_btvn\stm32f1xx_hal_msp.o"
+"timer_btvn\stm32f1xx_hal_gpio_ex.o"
+"timer_btvn\stm32f1xx_hal_tim.o"
+"timer_btvn\stm32f1xx_hal_tim_ex.o"
+"timer_btvn\stm32f1xx_hal.o"
+"timer_btvn\stm32f1xx_hal_rcc.o"
+"timer_btvn\stm32f1xx_hal_rcc_ex.o"
+"timer_btvn\stm32f1xx_hal_gpio.o"
+"timer_btvn\stm32f1xx_hal_dma.o"
+"timer_btvn\stm32f1xx_hal_cortex.o"
+"timer_btvn\stm32f1xx_hal_pwr.o"
+"timer_btvn\stm32f1xx_hal_flash.o"
+"timer_btvn\stm32f1xx_hal_flash_ex.o"
+"timer_btvn\stm32f1xx_hal_exti.o"
+"timer_btvn\system_stm32f1xx.o"
+--strict --scatter "TIMER_BTVN\TIMER_BTVN.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "TIMER_BTVN.map" -o TIMER_BTVN\TIMER_BTVN.axf

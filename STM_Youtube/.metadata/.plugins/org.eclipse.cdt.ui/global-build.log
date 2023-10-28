@@ -1,0 +1,35 @@
+20:22:19 **** Incremental Build of configuration Debug for project PID Example - Temperutur Control with PWM ****
+make -j3 all 
+arm-none-eabi-size   PID\ Example\ -\ Temperutur\ Control\ with\ PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23132	    484	   1912	  25528	   63b8	PID Example - Temperutur Control with PWM.elf
+Finished building: default.size.stdout
+ 
+20:22:31 **** Incremental Build of configuration Debug for project PID Example - Temperutur Control with PWM ****
+make -j3 all 
+arm-none-eabi-size   PID\ Example\ -\ Temperutur\ Control\ with\ PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23132	    484	   1912	  25528	   63b8	PID Example - Temperutur Control with PWM.elf
+Finished building: default.size.stdout
+ 
+20:22:31 **** Incremental Build of configuration Debug for project PWM_LedFade ****
+make -j3 all 
+arm-none-eabi-size   PWM_LedFade.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7884	     20	   1644	   9548	   254c	PWM_LedFade.elf
+Finished building: default.size.stdout
+ 
+20:22:45 **** Incremental Build of configuration Debug for project PID Example - Temperutur Control with PWM ****
+make -j3 all 
+arm-none-eabi-size   PID\ Example\ -\ Temperutur\ Control\ with\ PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23132	    484	   1912	  25528	   63b8	PID Example - Temperutur Control with PWM.elf
+Finished building: default.size.stdout
+ 
+16:14:59 **** Incremental Build of configuration Debug for project PID Example - Temperutur Control with PWM ****
+make -j3 all 
+arm-none-eabi-size   PID\ Example\ -\ Temperutur\ Control\ with\ PWM.elf 
+   text	   data	    bss	    dec	    hex	filename
+  23132	    484	   1912	  25528	   63b8	PID Example - Temperutur Control with PWM.elf
+Finished building: default.size.stdout
+ 
